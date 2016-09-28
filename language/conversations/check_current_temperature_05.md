@@ -1,5 +1,5 @@
 ---
-title: check_current_temperature_01
+title: check_current_temperature_05
 timestamp: 2016-09-27T13:21:58.364048-04:00
 ---
 
